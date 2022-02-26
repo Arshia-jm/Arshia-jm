@@ -1,9 +1,14 @@
 # 💫About Me :
 🧑🏻‍🦱I'm Arshia
+
 🤖I work in the field of programming and robotics
+
 ✨I am also a young researcher
+
 🔥I'm learning web programming
+
 🧑🏻‍💼I'm interested in team management
+
 🧑🏻‍🏫And interested in teaching programming
 
 
